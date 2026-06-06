@@ -15,22 +15,14 @@
 			"gitPath": "sirkingbinx/Utilla",
 			"group": "Core",
 			"browser_download_url": "https://github.com/sirkingbinx/Utilla/releases/latest/download/Utilla.dll"
-		},
-		{
-			"name": "MelInEx",
-			"author": "Loafiat",
-			"version": "1.0.0",
-			"gitPath": "Loafiat/MelInEx",
-			"group": "Core",
-			"browser_download_url": "https://files.sirkingbinx.dev/MonkeModManager/MelInEx_BepInEx.zip"
-		},
+		}
 		{
 			"name": "BingusNametags++",
 			"author": "bingus",
-			"version": "1.5.0",
+			"version": "1.5.1",
 			"gitPath": "sirkingbinx/BingusNametagsPlusPlus",
 			"group": "Cosmetic",
-			"browser_download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
+			"browser_download_url": "https://git.sirkingbinx.dev/sirkingbinx/BingusNametagsPlusPlus/-/raw/master/Build/BingusNametagsPlusPlus.dll"
 		},
 		{
 			"name": "HoneyLib",
